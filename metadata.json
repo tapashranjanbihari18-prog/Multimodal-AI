@@ -1,0 +1,6 @@
+{
+  "name": "Omniverse AI",
+  "description": "Multimodal AI Integrated Knowledge & Insight Platform for cross-modal synthesis, document OCR, audio transcription, video reasoning, and semantic search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

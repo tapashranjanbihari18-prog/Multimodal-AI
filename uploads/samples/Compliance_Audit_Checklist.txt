@@ -1,0 +1,5 @@
+INTERNAL AUDIT & COMPLIANCE VERIFICATION CHECKLIST - Q3 2026
+1. Revenue Recognition (ASC 606): Verified. Multi-element software contracts audited across top 50 client accounts.
+2. Inventory Valuation (ASC 330): Passed. EMEA edge hardware inventory tested against 14-week lead-time obsolescence risk. Buffer reserves adequate at $18.2M.
+3. Cybersecurity & Data Governance: SOC2 Type II compliance re-certified in September 2026. Zero breach notifications.
+4. Internal Controls over Financial Reporting (SOX 404): No material weaknesses identified by external audit committee.
